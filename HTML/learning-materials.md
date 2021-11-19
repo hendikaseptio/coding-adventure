@@ -1,0 +1,57 @@
+- [x] HTML Basic
+- [x] HTML Elements
+- [ ] HTML Attributes
+- [ ] HTML Headings
+- [ ] HTML Paragraphs
+- [ ] HTML Styles
+- [ ] HTML Formatting
+- [ ] HTML Quotations
+- [ ] HTML Comments
+- [ ] HTML Colors
+- [ ] HTML CSS
+- [ ] HTML Links
+- [ ] HTML Images
+- [ ] HTML Favicon
+- [ ] HTML Tables
+- [ ] HTML Lists
+- [ ] HTML Block & Inline
+- [ ] HTML Classes
+- [ ] HTML Id
+- [ ] HTML Iframes
+- [ ] HTML JavaScript
+- [ ] HTML File Paths
+- [ ] HTML Head
+- [ ] HTML Layout
+- [ ] HTML Responsive
+- [ ] HTML Computercode
+- [ ] HTML Semantics
+- [ ] HTML Style Guide
+- [ ] HTML Entities
+- [ ] HTML Symbols
+- [ ] HTML Emojis
+- [ ] HTML Charset
+- [ ] HTML URL Encode
+- [ ] HTML vs. XHTML
+
+- [ ] HTML Forms
+- [ ] HTML Form Attributes
+- [ ] HTML Form Elements
+- [ ] HTML Input Types
+- [ ] HTML Input Attributes
+- [ ] HTML Input Form Attributes
+
+- [ ] HTML Canvas
+- [ ] HTML SVG
+
+- [ ] HTML Media
+- [ ] HTML Video
+- [ ] HTML Audio
+- [ ] HTML Plug-ins
+- [ ] HTML YouTube
+
+- [ ] HTML APIs
+- [ ] HTML Geolocation
+- [ ] HTML Drag/Drop
+- [ ] HTML Web Storage
+- [ ] HTML Web Workers
+- [ ] HTML SSE
