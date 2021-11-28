@@ -1,7 +1,7 @@
 - [x] HTML Basic
 - [x] HTML Elements
 - [x] HTML Attributes
-- [ ] HTML Headings
+- [x] HTML Headings
 - [ ] HTML Paragraphs
 - [ ] HTML Styles
 - [ ] HTML Formatting
