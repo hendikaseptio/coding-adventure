@@ -1,6 +1,6 @@
 - [x] HTML Basic
 - [x] HTML Elements
-- [ ] HTML Attributes
+- [x] HTML Attributes
 - [ ] HTML Headings
 - [ ] HTML Paragraphs
 - [ ] HTML Styles
